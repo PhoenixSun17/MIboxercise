@@ -1,0 +1,4 @@
+baseURL = "https://example.org/"
+languageCode = 'en-us'
+title = 'MI-Boxercise Team 33'
+theme = "ananke" 
