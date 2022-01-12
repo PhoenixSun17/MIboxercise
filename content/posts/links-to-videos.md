@@ -4,24 +4,41 @@ date: 2021-12-07T00:59:44+08:00
 categories:
 - category
 - subcategory
-tags:
-- tag1
-- tag2
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
 
-Test of MI 2.0 week 1:
+Week 1 tests:
+> https://youtu.be/J8M8vnBHfVg
 
-"https://youtu.be/J8M8vnBHfVg"
+> https://youtu.be/N8-bnFxeyo4
 
-Test of MI 2.0 week 2 (with wheelchair adaptation):
+> https://www.youtube.com/watch?v=mh6EJ3STM6c
 
-"https://www.youtube.com/watch?v=twGF33ZlOjA"
+Week 2 tests:
+> https://youtu.be/twGF33ZlOjA
 
-Steep gaming clip directing using head:
+> https://youtu.be/cn8kXEvVd5U
 
-"https://youtu.be/2z6_JSrwVBM"
+> https://www.youtube.com/watch?v=ZRxgQwco_YQ
+
+Rhythm games:
+> https://youtu.be/jjWUCfgR-8A
+
+> https://youtu.be/QqgsCwQkzv0
+
+UCL edited version:
+> https://youtu.be/UhPT7Jf5u0I
+
+HALO: Infinite game test:
+> https://youtu.be/mKUfTI9uTtU
+
+> https://youtu.be/WPuxQ3IXXP4
+
+Wipeout 2097 game test:
+> https://www.youtube.com/watch?v=uUJ1Gz_mZKE
+
+
 
 <!--more-->
