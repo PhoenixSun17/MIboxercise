@@ -1,7 +1,12 @@
 ---
 title: "My First Post"
 date: 2021-12-07T00:46:15+08:00
-draft: false
+categories:
+- category
+- subcategory
+keywords:
+- tech
+#thumbnailImage: //example.com/image.jpg
 ---
 # This is the first post of Team 33 in UCL motion input IXN project
 We are working on developing a webcam-based application\
