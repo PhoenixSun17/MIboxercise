@@ -2,31 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MI-Boxercise Team 33</title>
-    <link>https://PhoenixSun17.github.io/MIboxercise/</link>
+    <link>https:example.org/</link>
     <description>Recent content on MI-Boxercise Team 33</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:59:44 +0800</lastBuildDate><atom:link href="https://PhoenixSun17.github.io/MIboxercise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 00:59:44 +0800</lastBuildDate><atom:link href="https:example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links to Videos</title>
-      <link>https://PhoenixSun17.github.io/MIboxercise/post/links-to-videos/</link>
+      <link>https:example.org/posts/links-to-videos/</link>
       <pubDate>Tue, 07 Dec 2021 00:59:44 +0800</pubDate>
       
-      <guid>https://PhoenixSun17.github.io/MIboxercise/post/links-to-videos/</guid>
-      <description>&lt;p&gt;Test of MI 2.0 week 1:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/J8M8vnBHfVg&#34;&gt;https://youtu.be/J8M8vnBHfVg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Test of MI 2.0 week 2 (with wheelchair adaptation):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=twGF33ZlOjA&#34;&gt;https://www.youtube.com/watch?v=twGF33ZlOjA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Steep gaming clip directing using head:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/2z6_JSrwVBM&#34;&gt;https://youtu.be/2z6_JSrwVBM&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Links to Videos</title>
-      <link>https://PhoenixSun17.github.io/MIboxercise/posts/links-to-videos/</link>
-      <pubDate>Tue, 07 Dec 2021 00:59:44 +0800</pubDate>
-      
-      <guid>https://PhoenixSun17.github.io/MIboxercise/posts/links-to-videos/</guid>
+      <guid>https:example.org/posts/links-to-videos/</guid>
       <description>&lt;p&gt;Test of MI 2.0 week 1:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://youtu.be/J8M8vnBHfVg%22&#34;&gt;https://youtu.be/J8M8vnBHfVg&amp;quot;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Test of MI 2.0 week 2 (with wheelchair adaptation):&lt;/p&gt;
@@ -37,10 +23,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://PhoenixSun17.github.io/MIboxercise/posts/my-first-post/</link>
+      <link>https:example.org/posts/my-first-post/</link>
       <pubDate>Tue, 07 Dec 2021 00:46:15 +0800</pubDate>
       
-      <guid>https://PhoenixSun17.github.io/MIboxercise/posts/my-first-post/</guid>
+      <guid>https:example.org/posts/my-first-post/</guid>
       <description>This is the first post of：
 Team 33 in UCL motion input IXN project
 We are working on developing a webcam-based application
