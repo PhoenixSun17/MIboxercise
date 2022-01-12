@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Hugo/sites/MIboxercise",
+	"sourceRoot": "/home/runner/work/MIboxercise/MIboxercise",
 	"sources": [
 		"stdin"
 	],
