@@ -39,6 +39,8 @@ HALO: Infinite game test:
 Wipeout 2097 game test:
 > https://www.youtube.com/watch?v=uUJ1Gz_mZKE
 
+Steep game test using head control:
+> https://youtu.be/2z6_JSrwVBM
 
 
 <!--more-->
