@@ -133,6 +133,47 @@ and allowing children and elders with diseases or disabilities to enjoy games.
 </div>
 </article>
 </div>
+<div class="relative w-100 mb4">
+<article class="bb b--black-10">
+<div class="db pv4 ph3 ph0-l no-underline dark-gray">
+<div class="flex flex-column flex-row-ns">
+<div class="blah w-100">
+<h1 class="f3 fw1 athelas mt0 lh-title">
+<a href=/MIboxercise/posts/game-reviews/ class="color-inherit dim link">
+Game Reviews
+</a>
+</h1>
+<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+<script type=text/javascript src=/MIboxercise//js/pdf-js/build/pdf.js></script>
+<style>#the-canvas{border:1px solid #000;direction:ltr;width:100%;height:auto;display:none}#paginator{display:none;text-align:center;margin-bottom:10px}#loadingWrapper{display:none;justify-content:center;align-items:center;width:100%;height:350px}#loading{display:inline-block;width:50px;height:50px;border:3px solid #d2d0d0;border-radius:50%;border-top-color:#383838;animation:spin 1s ease-in-out infinite;-webkit-animation:spin 1s ease-in-out infinite}@keyframes spin{to{-webkit-transform:rotate(360deg)}}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}</style>
+<div id=paginator>
+<button id=prev>Previous</button>
+<button id=next>Next</button>
+&nbsp; &nbsp;
+<span>Page: <span id=page_num></span> / <span id=page_count></span></span>
+</div>
+<div id=embed-pdf-container>
+<div id=loadingWrapper>
+<div id=loading></div>
+</div>
+<canvas id=the-canvas></canvas>
+</div>
+<script type=text/javascript>window.onload=function(){var j="https://phoenixsun17.github.io/MIboxercise/./pdf/Game Review-merged.pdf",s=""==="true",o=""==="true",n=parseInt("")||1,h=window['pdfjs-dist/build/pdf'],d,a,e,c,k,b,l,m,g;h.GlobalWorkerOptions.workerSrc="https://phoenixsun17.github.io/MIboxercise//js/pdf-js/build/pdf.worker.js",d=null,a=n,e=!1,c=null,k=3,b=document.getElementById('the-canvas'),l=b.getContext('2d'),m=document.getElementById("paginator"),g=document.getElementById('loadingWrapper'),r(),q();function f(a){e=!0,d.getPage(a).then(function(d){var a=d.getViewport({scale:k}),g,h;b.height=a.height,b.width=a.width,g={canvasContext:l,viewport:a},h=d.render(g),h.promise.then(function(){e=!1,p(),c!==null&&(f(c),c=null)})}),document.getElementById('page_num').textContent=a}function p(){g.style.display='none',b.style.display='block'}function q(){if(o)return;g.style.display='flex',b.style.display='none'}function r(){if(s)return;m.style.display='block'}function i(a){e?c=a:f(a)}function t(){if(a<=1)return;a--,i(a)}document.getElementById('prev').addEventListener('click',t);function u(){if(a>=d.numPages)return;a++,i(a)}document.getElementById('next').addEventListener('click',u),h.getDocument(j).promise.then(function(c){d=c;var b=d.numPages;document.getElementById('page_count').textContent=b,a>b&&(a=b),f(a)})}</script>
+<h2 id=game-reviews>Game Reviews</h2>
+<p>Game reviews for all games tested with MotionInput are shown below:</p>
+<h6 id=full-body-mode-review>Full body mode review:</h6>
+<p>[Game review](./pdf/Game Review-merged.pdf)</p>
+<h6 id=sitting-mode-review>Sitting mode review:</h6>
+<blockquote>
+<p><em>Upcoming</em></p>
+</blockquote>
+</div>
+<a href=/MIboxercise/posts/game-reviews/ class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+</div>
+</div>
+</div>
+</article>
+</div>
 </section>
 </div>
 </main>
