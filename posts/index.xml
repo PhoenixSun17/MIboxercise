@@ -45,7 +45,12 @@
 &lt;p>&lt;a href="https://youtu.be/2z6_JSrwVBM">https://youtu.be/2z6_JSrwVBM&lt;/a>&lt;/p>
 &lt;/blockquote></description></item><item><title>My First Post</title><link>https://phoenixsun17.github.io/MIboxercise/posts/my-first-post/</link><pubDate>Tue, 07 Dec 2021 00:46:15 +0800</pubDate><guid>https://phoenixsun17.github.io/MIboxercise/posts/my-first-post/</guid><description>This is the first post of Team 33 in UCL motion input IXN project We are working on developing a webcam-based application
 which helps people to play video games in their homes with their bodies
-and allowing children and elders with diseases or disabilities to enjoy games.</description></item><item><title>Game Reviews</title><link>https://phoenixsun17.github.io/MIboxercise/posts/game-reviews/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://phoenixsun17.github.io/MIboxercise/posts/game-reviews/</guid><description>&lt;script type="text/javascript" src= '/MIboxercise//js/pdf-js/build/pdf.js'>&lt;/script>
+and allowing children and elders with diseases or disabilities to enjoy games.</description></item><item><title>Game Reviews</title><link>https://phoenixsun17.github.io/MIboxercise/posts/game-reviews/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://phoenixsun17.github.io/MIboxercise/posts/game-reviews/</guid><description>&lt;h2 id="game-reviews">Game Reviews&lt;/h2>
+&lt;p>Game reviews for all games tested with MotionInput are shown below:&lt;/p>
+&lt;h4 id="full-body-mode-review">Full body mode review:&lt;/h4>
+&lt;p>&lt;a href="./posts/pdf/Game-Review-merged.pdf">Game Review Document&lt;/a>
+Preview Mode:
+&lt;script type="text/javascript" src= '/MIboxercise//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
@@ -183,10 +188,7 @@ renderPage(pageNum);
 });
 }
 &lt;/script>
-&lt;h2 id="game-reviews">Game Reviews&lt;/h2>
-&lt;p>Game reviews for all games tested with MotionInput are shown below:&lt;/p>
-&lt;h4 id="full-body-mode-review">Full body mode review:&lt;/h4>
-&lt;p>&lt;a href="./posts/pdf/Game-Review-merged.pdf">Game Review Document&lt;/a>&lt;/p>
+&lt;/p>
 &lt;h6 id="sitting-mode-review">Sitting mode review:&lt;/h6>
 &lt;blockquote>
 &lt;p>&lt;em>Upcoming&lt;/em>&lt;/p>
