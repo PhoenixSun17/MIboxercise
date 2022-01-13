@@ -186,7 +186,7 @@ renderPage(pageNum);
 &lt;h2 id="game-reviews">Game Reviews&lt;/h2>
 &lt;p>Game reviews for all games tested with MotionInput are shown below:&lt;/p>
 &lt;h6 id="full-body-mode-review">Full body mode review:&lt;/h6>
-&lt;p>&lt;a href="https://github.com/PhoenixSun17/MIboxercise/blob/main/content/posts/pdf/Game-Review-merged.pdf">Game review&lt;/a>&lt;/p>
+&lt;p>&lt;a href="./posts/pdf/Game-Review-merged.pdf">Game review&lt;/a>&lt;/p>
 &lt;h6 id="sitting-mode-review">Sitting mode review:&lt;/h6>
 &lt;blockquote>
 &lt;p>&lt;em>Upcoming&lt;/em>&lt;/p>
