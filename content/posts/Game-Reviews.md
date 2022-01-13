@@ -14,8 +14,8 @@ keywords:
 Game reviews for all games tested with MotionInput are shown below:
 
 #### Full body mode review:
-[Game Review Document](./posts/pdf/Game-Review-merged.pdf)
-Preview Mode:
+[*_Game Review Document_*](./posts/pdf/Game-Review-merged.pdf)
+*Preview Mode:*
 {{< embed-pdf url="./posts/pdf/Game-Review-merged.pdf" >}}
 
 ###### Sitting mode review:
