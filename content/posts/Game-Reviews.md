@@ -8,7 +8,7 @@ keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
-{{< embed-pdf url="https://github.com/PhoenixSun17/MIboxercise/blob/main/content/posts/pdf/Game-Review-merged.pdf" >}}
+{{< embed-pdf url="/blob/main/content/posts/pdf/Game-Review-merged.pdf" >}}
 
 ## Game Reviews
 
