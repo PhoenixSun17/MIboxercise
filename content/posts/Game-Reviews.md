@@ -15,6 +15,7 @@ Game reviews for all games tested with MotionInput are shown below:
 
 #### Full body mode review:
 [*_Game Review Document_*](./posts/pdf/Game-Review-merged.pdf)
+
 *Preview Mode:*
 {{< embed-pdf url="./posts/pdf/Game-Review-merged.pdf" >}}
 
