@@ -97,7 +97,7 @@ to { -webkit-transform: rotate(360deg); }
 &lt;/div>
 &lt;script type="text/javascript">
 window.onload = function() {
-var url = "https:\/\/phoenixsun17.github.io\/MIboxercise\/" + 'https:\/\/github.com\/PhoenixSun17\/MIboxercise\/blob\/main\/content\/posts\/pdf\/Game-Review-merged.pdf';
+var url = "https:\/\/phoenixsun17.github.io\/MIboxercise\/" + '\/blob\/main\/content\/posts\/pdf\/Game-Review-merged.pdf';
 var hidePaginator = "" === "true";
 var hideLoader = "" === "true";
 var selectedPageNum = parseInt("") || 1;
