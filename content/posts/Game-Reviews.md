@@ -8,7 +8,6 @@ keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
-{{< embed-pdf url="./posts/pdf/Game-Review-merged.pdf" >}}
 
 ## Game Reviews
 
@@ -16,6 +15,8 @@ Game reviews for all games tested with MotionInput are shown below:
 
 #### Full body mode review:
 [Game Review Document](./posts/pdf/Game-Review-merged.pdf)
+Preview Mode:
+{{< embed-pdf url="./posts/pdf/Game-Review-merged.pdf" >}}
 
 ###### Sitting mode review:
 > *Upcoming*
