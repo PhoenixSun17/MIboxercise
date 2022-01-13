@@ -15,7 +15,7 @@ keywords:
 Game reviews for all games tested with MotionInput are shown below:
 
 ###### Full body mode review:
-[Game review](https://github.com/PhoenixSun17/MIboxercise/blob/main/content/posts/pdf/Game-Review-merged.pdf)
+[Game review](./posts/pdf/Game-Review-merged.pdf)
 
 ###### Sitting mode review:
 > *Upcoming*
