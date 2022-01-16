@@ -10,37 +10,37 @@ keywords:
 ---
 
 Week 1 tests:
-> https://youtu.be/J8M8vnBHfVg
+> {{< youtube J8M8vnBHfVg >}}
 
-> https://youtu.be/N8-bnFxeyo4
+> {{< youtube N8-bnFxeyo4 >}}
 
-> https://www.youtube.com/watch?v=mh6EJ3STM6c
+> {{< youtube mh6EJ3STM6c >}}
 
 Week 2 tests:
-> https://youtu.be/twGF33ZlOjA
+> {{< youtube twGF33ZlOjA >}}
 
-> https://youtu.be/cn8kXEvVd5U
+> {{< youtube cn8kXEvVd5U >}}
 
-> https://www.youtube.com/watch?v=ZRxgQwco_YQ
+> {{< youtube ZRxgQwco_YQ >}}
 
 Rhythm games:
-> https://youtu.be/jjWUCfgR-8A
+> {{< youtube jjWUCfgR-8A >}}
 
-> https://youtu.be/QqgsCwQkzv0
+> {{< youtube QqgsCwQkzv0 >}}
 
 UCL edited version:
-> https://youtu.be/UhPT7Jf5u0I
+> {{< youtube UhPT7Jf5u0I >}}
 
 HALO: Infinite game test:
-> https://youtu.be/mKUfTI9uTtU
+> {{< youtube mKUfTI9uTtU >}}
 
-> https://youtu.be/WPuxQ3IXXP4
+> {{< youtube WPuxQ3IXXP4 >}}
 
 Wipeout 2097 game test:
-> https://www.youtube.com/watch?v=uUJ1Gz_mZKE
+> {{< youtube uUJ1Gz_mZKE >}}
 
 Steep game test using head control:
-> https://youtu.be/2z6_JSrwVBM
+> {{< youtube 2z6_JSrwVBM >}}
 
 
 <!--more-->
