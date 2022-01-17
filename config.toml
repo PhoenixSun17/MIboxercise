@@ -2,11 +2,28 @@ baseURL = "https://phoenixsun17.github.io/MIboxercise/"
 languageCode = 'en-us'
 title = 'MI-Boxercise Team 33'
 theme = "ananke" 
-[param]
-  ananke_socials = true
-  - name = linkedin
-    url = https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/
-  - name = github
-    url = https://github.com/PhoenixSun17
-  - name = youtube
-    url = https://www.youtube.com/channel/UCUDTis7KbnvtEKPhKIQ8I9w
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+  
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "In pursue of new game style, perhaps life style"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+
+
+[[params.ananke_socials]]
+name = linkedin
+url = https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/
+name = github
+url = https://github.com/PhoenixSun17
+name = youtube
+url = https://www.youtube.com/channel/UCUDTis7KbnvtEKPhKIQ8I9w
