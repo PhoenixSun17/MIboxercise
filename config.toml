@@ -21,9 +21,9 @@ theme = "ananke"
 
 
 [[params.ananke_socials]]
-name = linkedin
-url = https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/
-name = github
-url = https://github.com/PhoenixSun17
-name = youtube
-url = https://www.youtube.com/channel/UCUDTis7KbnvtEKPhKIQ8I9w
+name = "linkedin"
+url = "https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/"
+name = "github"
+url = "https://github.com/PhoenixSun17"
+name = "youtube"
+url = "https://www.youtube.com/channel/UCUDTis7KbnvtEKPhKIQ8I9w"
