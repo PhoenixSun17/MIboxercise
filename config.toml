@@ -23,6 +23,8 @@ theme = "ananke"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/"
+
+[[params.ananke_socials]]
 name = "github"
 url = "https://github.com/PhoenixSun17"
 
