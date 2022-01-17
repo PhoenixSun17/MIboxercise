@@ -2,3 +2,10 @@ baseURL = "https://phoenixsun17.github.io/MIboxercise/"
 languageCode = 'en-us'
 title = 'MI-Boxercise Team 33'
 theme = "ananke" 
+
+params:
+  ananke_socials:
+  - name: linkedin
+    url: https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/
+  - name: github
+    url: https://github.com/PhoenixSun17
