@@ -25,9 +25,33 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/ruijun-sun-0b34ab1b7/"
 
 [[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/aryannevgi/"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/taiyuan-zhang-973a47186/"
+
+[[params.ananke_socials]]
 name = "github"
 url = "https://github.com/PhoenixSun17"
 
 [[params.ananke_socials]]
+name = "github"
+url = "https://github.com/ANevgi"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/chriszhang1"
+
+[[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/channel/UCUDTis7KbnvtEKPhKIQ8I9w"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCaKysizu0mv4wpduhiVxdtQ"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UC-2HIZCDFo62-QdO61dOY3A"
