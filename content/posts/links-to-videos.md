@@ -15,7 +15,7 @@ keywords:
 {{< youtube N8-bnFxeyo4 >}}
 
 {{< youtube mh6EJ3STM6c >}}
-
+<!--more-->
 ## Week 2 tests:
 {{< youtube twGF33ZlOjA >}}
 
@@ -43,4 +43,4 @@ keywords:
 {{< youtube 2z6_JSrwVBM >}}
 
 
-<!--more-->
+
