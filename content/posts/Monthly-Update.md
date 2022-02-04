@@ -12,9 +12,9 @@ keywords:
 
 {{< youtube GtvWreKbHcE >}}
 This video mainly shows the HCI phase and all initial designs\
+<!--more-->
+# Video update Nov - Dec
 {{< youtube XCsq3GzCOo0 >}}
 This video mainly shows game tests and Easy wizard GUI building process\
-
-# Video update Nov - Dec
 
 
