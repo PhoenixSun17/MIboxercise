@@ -11,10 +11,10 @@ keywords:
 # Video update Oct - Nov
 
 {{< youtube GtvWreKbHcE >}}
-This video mainly shows the HCI phase and all initial designs\
+This video mainly shows the HCI phase and all initial designs
 <!--more-->
 # Video update Nov - Dec
 {{< youtube XCsq3GzCOo0 >}}
-This video mainly shows game tests and Easy wizard GUI building process\
+This video mainly shows game tests and Easy wizard GUI building process
 
 
