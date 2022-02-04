@@ -9,7 +9,9 @@ keywords:
 #thumbnailImage: //example.com/image.jpg
 ---
 ## Video update Oct - Nov
+
 {{< youtube GtvWreKbHcE >}}
 
 ## Video update Nov - Dec
+
 {{< youtube XCsq3GzCOo0 >}}
