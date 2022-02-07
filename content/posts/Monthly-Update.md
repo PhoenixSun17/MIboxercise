@@ -17,6 +17,6 @@ This video mainly shows the HCI phase and all initial designs
 {{< youtube XCsq3GzCOo0 >}}
 This video mainly shows game tests and Easy wizard GUI building process
 
-# Video update Nov - Dec
+# Video update Dec - Jan
 {{< youtube eUk-uPIEriw >}}
 This video mainly shows elevator pitch, implementation of new functionality and prototyping of new version of GUI
