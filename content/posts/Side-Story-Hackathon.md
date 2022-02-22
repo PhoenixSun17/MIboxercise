@@ -1,8 +1,9 @@
 ---
 title: "2022 UCL Coding Curriculum Hackathon"
 date: 2022-02-22T16:11:44+08:00
-featured_image: "/images/camera.png"
-tags: ["video update"]
+description: "The Grand Hall"
+featured_image: "/image/upload.png"
+tags: ["scene"]
 ---
 # Hackathon Project Breif
 
