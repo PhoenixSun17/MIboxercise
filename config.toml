@@ -14,7 +14,7 @@ enableRobotsTXT = true
   
 [params]
   text_color = ""
-  author = ""
+  author = "Phoenix Sun"
   favicon = ""
   site_logo = ""
   description = "In pursue of new game style, perhaps life style"
