@@ -1,13 +1,13 @@
 ---
 title: "2022 UCL Coding Curriculum Hackathon"
 date: 2022-02-22T16:11:44+08:00
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/camera.png"
 categories:
 - category
 - subcategory
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+#thumbnailImage: "/images/upload.png"
 ---
 # Hackathon Project Breif
 
