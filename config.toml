@@ -1,8 +1,9 @@
 baseURL = "https://phoenixsun17.github.io/MIboxercise/"
 languageCode = 'en-us'
 title = 'MI-Boxercise Team 33'
-theme = "ananke" 
-
+theme = "ananke"
+description = "In pursue of new game style, perhaps life style"
+featured_image = "/image/background.png"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
