@@ -1,6 +1,6 @@
 ---
 title: "Biweekly Update: 10/1/22 - 23/1/22"
-date: 2022-1-23T00:46:15+08:00
+date: 2022-01-23T00:46:15+08:00
 categories:
 - category
 - subcategory
